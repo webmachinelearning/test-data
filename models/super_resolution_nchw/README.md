@@ -6,5 +6,5 @@ Download and extract [Super Resolution (with sample test data)](https://github.c
 
 Convert to `.npy` formatted files by:
 ```sh
-python3 gen_nhwc_test_data.py -d path\to\super_resolution -n super_resolution
+python3 gen_nchw_test_data.py -d path\to\super_resolution -n super_resolution
 ```
